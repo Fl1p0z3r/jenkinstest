@@ -1,4 +1,3 @@
-torch
 # This version has several Critical/High security vulnerabilities
 Flask==0.10.1
 
