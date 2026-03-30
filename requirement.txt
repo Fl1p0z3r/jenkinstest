@@ -1,1 +1,8 @@
-torch
+# This version has several Critical/High security vulnerabilities
+Flask==0.10.1
+
+# This version is very old and will show as "Outdated"
+requests==2.20.0
+
+# Another vulnerable package for testing
+jinja2==2.10
